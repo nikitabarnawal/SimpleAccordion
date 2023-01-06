@@ -1,0 +1,17 @@
+.accordionItem {
+  margin-bottom: 10px;
+}
+
+.title {
+  margin: 3px;
+  padding: 5px;
+  background-color: pink;
+  border: 1px solid "#f2e6e6";
+  border-radius: 1px;
+  box-shadow: 0 0 2px #f2e6e6;
+}
+
+.content {
+  margin: 3px;
+  padding: px;
+}
